@@ -1,0 +1,1 @@
+Lofi Website with simple Gif scenaries for studying and focusing.
