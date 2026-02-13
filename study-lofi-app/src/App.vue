@@ -110,7 +110,7 @@ body, html {
 .video-background {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* Cover the entire viewport */
+  object-fit: fill; /* Cover the entire viewport */
   position: fixed;
   top: 0;
   left: 0;
